@@ -16,6 +16,9 @@ https://light.territory.workers.dev/api/v1/meals
 
 ### Here's what our designer would like it to look like
 You do not need to match these perfectly, but, this role will be working closely with our design team, so being able to replicate a mockup from scratch will be important.
+
+_This should save you time!_
+
 [Insert Link to Mockups Here]
 
 ### Here are some user stories:
@@ -26,6 +29,8 @@ You do not need to match these perfectly, but, this role will be working closely
 
 ### If you've got time...(stretch goal)
  - As a user, I want to be able to add/remove the meals I select to a cart.
+ - As a user, I want to be able to see what is in my cart.
+   - Hint: this should be a modal or component on the page. Not a separate view.
 
 ## When You're Done
 Zip up your git repo and send it as an email attachment to `devadmin@territoryfoods.com`
