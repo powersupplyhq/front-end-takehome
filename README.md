@@ -12,7 +12,7 @@ To this end, please initialize a Git repo for this project and commit your work 
 A very simplified version of our menu view: https://www.territoryfoods.com/menus/2020-08-03
 
 #### Here's where you'll get the meals:
-https://light.territory.workers.dev/api/v1/meals
+https://territory-meals-api.herokuapp.com/meals
 
 #### Here's what our designer would like it to look like
 You do not need to match these perfectly, but, this role will be working closely with our design team, so being able to replicate a mockup from scratch will be important.
