@@ -13,6 +13,7 @@ A very simplified version of our menu view: https://www.territoryfoods.com/menus
 
 #### Here's where you'll get the meals:
 https://territory-meals-api.herokuapp.com/meals
+(it's a hobby tier dyno, so if it fails to load right away, it's because it needs to spin up. Try again, and once it's up it'll stay awake for a while)
 
 #### Here's what our designer would like it to look like
 You do not need to match these perfectly, but, this role will be working closely with our design team, so being able to replicate a mockup from scratch will be important.
