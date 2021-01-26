@@ -37,4 +37,4 @@ _This should save you time!_
  - You may use the language and framework of your choice; but, please be aware that our app currently uses React, so showing us your experience with React or a similar framework will go a long way.
 
 ## When You're Done
-Zip up your git repo and send it as an email attachment to `devadmin@territoryfoods.com`
+Zip up your git repo and send it as an email attachment to `bolak@territoryfoods.com`
