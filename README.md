@@ -34,7 +34,7 @@ _This should save you time!_
    - Hint: this should be a modal or component on the page. Not a separate view.
    
 ## How to build it (what to use):
- - You may use the language and framework of your choice; but, please be aware that our app currently uses React, so showing us your experience with React or a similar framework will go a long way.
+ - We use React, though you may choose use the language and framework of your choice.
 
 ## When You're Done
 Zip up your git repo and send it as an email attachment to `bolak@territoryfoods.com`
